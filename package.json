@@ -1,0 +1,13 @@
+{
+  "name": "simple-web-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spencercorwin/simple-web-crawler.git",
+  "author": "<spencercorwin@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "prompt": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
